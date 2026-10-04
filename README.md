@@ -2,7 +2,8 @@
 
 A tool I built for my father's small local bakery. He keeps a daily notebook of what he buys for the shop, the cash and online money he receives, and what he keeps for tomorrow. He types the day's note in plain English, and Gemma fills in the table. He can also ask questions like "how much did I spend on milk last week?"
 
-Built for the DEV Hacktoberfest Weekend Challenge: Build for a Friend.
+Built for Hacktoberfest Weekend DEV Challenge: Build for a Friend  -
+Build something with open-source AI at its core
 
 ## How the AI is used
 - Gemma (open-weight, by Google) runs locally through Ollama.
